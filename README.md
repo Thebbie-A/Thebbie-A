@@ -7,7 +7,6 @@
 - 🌱 I’m currently advancing my Python Skills
 - 👯 I’m looking to collaborate on Python projects
 - 💬 Ask me anything relating to Tech
-- 📫 How to reach me: ...
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love movies and football
 
