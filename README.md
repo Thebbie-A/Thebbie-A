@@ -1,5 +1,6 @@
-### Hi there, I am Deborah, an Aspiring Data Analsyt and a Software Engineer.  👋
+### Hi there, this is Deborah 👋
 
+I am Deborah Arthur, an Aspiring Data Analsyt and a Software Engineer.  
 
 ## Connect with me
 
