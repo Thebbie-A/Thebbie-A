@@ -1,7 +1,6 @@
 ### Hi there, this is Deborah 👋
 
  
-## Connect with me
 
 I am Deborah Arthur, an Aspiring Data Analsyt and a Software Engineer.  
 
