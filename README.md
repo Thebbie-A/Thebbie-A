@@ -1,9 +1,9 @@
 ### Hi there, this is Deborah 👋
 
-I 
+ 
 ## Connect with me
 
-am Deborah Arthur, an Aspiring Data Analsyt and a Software Engineer.  
+I am Deborah Arthur, an Aspiring Data Analsyt and a Software Engineer.  
 
 - 🌱 I’m currently advancing my Python Skills
 - 👯 I’m looking to collaborate on Python projects
