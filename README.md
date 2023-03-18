@@ -3,7 +3,7 @@
  
 ## Connect with me
 
-I am Deborah Arthur, I am a Data Analsyt.  
+My name is Deborah Arthur, I am a Data Analsyt.  
 
 - 🌱 I’m currently advancing my Python Skills
 - 👯 I’m looking to collaborate on Python projects
