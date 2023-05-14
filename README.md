@@ -15,13 +15,16 @@ My name is Deborah Arthur
 
 
 ## Technical Skills
-
+[![Google Looker Studio](https://img.shields.io/badge/Looker-Studio-blue)](https://lookerstudio.com)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Excel](https://img.shields.io/badge/Excel-green)](https://www.microsoft.com/en-us/microsoft-365/excel)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 Database
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[![Power BI](https://img.shields.io/badge/Power%20BI-orange)](https://powerbi.microsoft.com/)
+
 
 Designs
 
