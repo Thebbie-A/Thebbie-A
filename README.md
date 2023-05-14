@@ -33,5 +33,8 @@ Designs
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Thebbie-A)](https://github.com/Thebbie-A)
+[![GitHub stats](https://img.shields.io/badge/GitHub-Stats-blue)](https://github.com/Thebbie-A)
+
+
 
 
