@@ -6,7 +6,7 @@
 My name is Deborah Arthur
 
 - 🌱 I’m currently advancing my skiils in Data Analysis.
-- 👯 I’m looking to collaborate on data related projects.
+- 👯 I’m looking forward to collaborate on data related projects.
 - 💬 Ask me anything relating to Tech and Arts.
 
 
