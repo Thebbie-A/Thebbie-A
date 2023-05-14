@@ -3,13 +3,12 @@
  
 ## Connect with me
 
-My name is Deborah Arthur, I am a Data Analsyt.  
+My name is Deborah Arthur
 
-- 🌱 I’m currently advancing my Python Skills
-- 👯 I’m looking to collaborate on Python projects
-- 💬 Ask me anything relating to Tech
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love movies and football
+- 🌱 I’m currently advancing my skiils in Data Analysis.
+- 👯 I’m looking to collaborate on data related projects.
+- 💬 Ask me anything relating to Tech and Arts.
+
 
 
 
