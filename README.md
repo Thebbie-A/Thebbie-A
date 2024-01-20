@@ -5,8 +5,8 @@
 
 My name is Deborah Arthur
 
-- 🌱 I am a Data Analyst.
-- 👯 I’m looking forward to collaborate on data related projects.
+- 🌱 I am a Data Analyst and a Computatioanl Linguist
+- 👯 I’m looking forward to collaborate on data and linguistical related projects.
 - 💬 Ask me anything relating to Tech and Arts.
 
 
