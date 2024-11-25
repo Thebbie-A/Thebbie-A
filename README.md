@@ -15,7 +15,7 @@ Connect with me!
 
 [![LinkedIn](https://www.linkedin.com/in/deborah-arthur-d/)  
 ![Twitter](twitter.come/thebbie_arthur)
-[![Blog]![Alt text]((https://substack.com/@deboraharthur?utm_source=user-menu))
+[![Blog](https://substack.com/@deboraharthur?utm_source=user-menu)
 
 
 
