@@ -13,9 +13,11 @@ My name is Deborah Arthur
 Connect with me!
 
 
-[![LinkedIn](https://www.linkedin.com/in/deborah-arthur-d/)  
-![Twitter](twitter.come/thebbie_arthur)
-[![Blog](https://substack.com/@deboraharthur?utm_source=user-menu)
+[LinkedIn](https://www.linkedin.com/in/deborah-arthur-d/)  
+
+[Twitter](twitter.come/thebbie_arthur)
+
+[Blog](https://substack.com/@deboraharthur?utm_source=user-menu)
 
 
 
